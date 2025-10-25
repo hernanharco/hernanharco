@@ -46,8 +46,6 @@
 
 ---
 
----
-
 ### 🚀 Echa un Vistazo a Mis Proyectos
 
 <p align="center">
@@ -55,10 +53,6 @@
   <br>
   
   <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Portafolio_Actualizado-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Botón de Portafolio"/>
+    <img src="https://img.shields.io/badge/Ver_Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Botón de Portafolio"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hernanharco&style=for-the-badge&color=3670F7" alt="Vistas al Perfil" />
-</div>
