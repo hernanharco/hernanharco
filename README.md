@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4FmOWfFwH2mI/giphy.gif" alt="Coding Meme - Mucho Café" width="50%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animación de desarrollador codificando" width="50%">
 </p>
 
 ---
