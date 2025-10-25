@@ -46,10 +46,17 @@
 
 ---
 
-### 🏆 Insignia de GitHub (Solo para los más dedicados) ✨
+---
+
+### 🚀 Echa un Vistazo a Mis Proyectos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hernanharco&theme=flat" alt="Trofeos de Hernan Harco" />
+  ¿Quieres ver mis últimas creaciones Full-Stack? ¡Aquí es donde sucede la magia!
+  <br>
+  
+  <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Portafolio_Actualizado-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Botón de Portafolio"/>
+  </a>
 </p>
 
 <div align="center">
