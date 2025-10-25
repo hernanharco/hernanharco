@@ -22,6 +22,20 @@
 
 ---
 
+### 🌐 ¡Conectemos en la Red! 🤝
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hernan-harco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio de Hernan Harco"/>
+  </a>
+</p>
+
+---
+
 ### 🕹️ Nivel de Habilidad (XP Bar) 📊
 
 <p align="center">
@@ -46,23 +60,17 @@
 
 ---
 
-### 🚀 Echa un Vistazo a Mis Proyectos
+### 🚀 Mis Proyectos Destacados (¡La Magia Sucede Aquí!) ✨
 
 <p align="center">
-  ¿Quieres ver mis últimas creaciones Full-Stack? ¡Aquí es donde sucede la magia!
-  <br>
-  <br>
   <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Botón de Portafolio"/>
+    <img src="https://img.shields.io/badge/Ver_TODOS_los_Proyectos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Botón de Portafolio Final"/>
   </a>
 </p>
 
----
-
-### 🌐 ¡Conectemos en la Red!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hernan-harco/" target="_blank">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hernanharco&style=for-the-badge&color=3670F7" alt="Vistas al Perfil" />
+</div>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
   </a>  
 </p>
