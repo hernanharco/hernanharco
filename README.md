@@ -71,8 +71,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hernanharco&style=for-the-badge&color=3670F7" alt="Vistas al Perfil" />
 </div>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
-  </a>  
-</p>
 
 ---
