@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3670F7&height=180&section=header&text=HERNAN%20HARCO&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Dev%20|%20Codificando%20Memes%20y%20Webs!&descAlign=60&descAlignY=60" alt="Banner de Bienvenida de Hernan Haro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3670F7&height=180&section=header&text=HERNAN%20HARO&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Dev%20|%20Codificando%20Memes%20y%20Webs!&descAlign=60&descAlignY=60" alt="Banner de Bienvenida de Hernan Haro" />
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animación de desarrollador codificando" width="50%">
+  <img src="./perfil_animado.gif" alt="Animación de desarrollador codificando" width="50%"> 
 </p>
 
 ---
@@ -25,9 +25,9 @@
 ### 🕹️ Nivel de Habilidad (XP Bar) 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernanharco&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&title_color=3670F7&icon_color=3670F7" alt="Estadísticas de Hernan Haro" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hernanharco&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&title_color=3670F7&icon_color=3670F7" alt="Estadísticas de Hernan Harco" width="48%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=gotham&hide_border=true&title_color=3670F7&icon_color=3670F7" alt="Top Lenguajes de Hernan Haro" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=gotham&hide_border=true&title_color=3670F7&icon_color=3670F7" alt="Top Lenguajes de Hernan Harco" width="48%" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🏆 Insignia de GitHub (Solo para los más dedicados) ✨
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hernanharco&no-frame=true&margin-w=15&margin-h=15" alt="Trofeos de Hernan Harco" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hernanharco&theme=flat" alt="Trofeos de Hernan Harco" />
 </p>
 
 <div align="center">
