@@ -51,8 +51,24 @@
 <p align="center">
   ¿Quieres ver mis últimas creaciones Full-Stack? ¡Aquí es donde sucede la magia!
   <br>
-  
+  <br>
   <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Botón de Portafolio"/>
   </a>
 </p>
+
+---
+
+### 🌐 ¡Conectemos en la Red!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hernan-harco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio de Hernan Harco"/>
+  </a>
+</p>
+
+---
