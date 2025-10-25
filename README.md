@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&pause=1000&color=3670F7&center=true&vCenter=true&width=500&lines=¡Hola%2C+soy+Hernan+Harco!+👋;Desarrollador+Frontend;Desarrollador+Backend;Full-Stack+Web+Developer" alt="Animación de bienvenida" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5wWf7GMbT1ZUGTDQMQ0/giphy.gif" width="60%">
-</p>
-
 ---
 
 ### 👨‍💻 Sobre Mí
