@@ -64,11 +64,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hernan-harco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hernan-8jbmcx.manus.space/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio de Hernan Harco"/>
-  </a>
+  </a>  
 </p>
 
 ---
