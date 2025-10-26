@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hernan Harco"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://bit.ly/portfoliohernan" target="_blank">
+  <a href="https://effortless-fairy-b2bde9.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio de Hernan Harco"/>
   </a>
 </p>
