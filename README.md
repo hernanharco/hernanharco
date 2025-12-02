@@ -41,7 +41,11 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernanharco&theme=gotham&hide_border=true&card_width=400" 
          alt="Racha de Contribuciones de Hernan Harco" 
-         width="48%"/>   
+         width="48%"/>
+
+  <img src="https://github-readme-stats-git-master-hernan-arango-cortes-projects.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=darcula&hide_border=true" 
+         alt="Racha de Contribuciones de Hernan Harco" 
+         width="48%"/>
   
 </p>
 
