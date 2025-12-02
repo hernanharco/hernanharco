@@ -45,22 +45,6 @@
   
 </p>
 
-<p align="center">
-    <img src="https://metrics.lecoq.io/hernanharco?template=terminal&widescreen=true&is_short=false&config.display=columns&config.layout=waffle"
-         alt="Métricas Detalladas de Hernan Harco"
-         width="100%"/>
-</p>
-
-<p align="center">
-    <img src="https://hernan-arango-cortes-projects.vercel.app/api/streak?user=hernanharco&theme=radical&hide_border=true&card_width=400" 
-         alt="Racha de Misión Diaria de Hernan Harco" 
-         width="48%"/>
-
-    <img src="https://hernan-arango-cortes-projects.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=radical&hide_border=true&title_color=ff00aa&icon_color=ff00aa" 
-         alt="Top Lenguajes de Hernan Harco" 
-         width="48%" />
-</p>
-
 ---
 
 ### ⚔️ Arsenal Tecnológico (Tech Stack) 🛠️
