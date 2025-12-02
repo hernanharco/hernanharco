@@ -39,9 +39,13 @@
 ### 🕹️ Nivel de Habilidad (XP Bar) 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernanharco&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&title_color=3670F7&icon_color=3670F7" alt="Estadísticas de Hernan Harco" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernanharco&theme=gotham&hide_border=true&card_width=400" 
+         alt="Racha de Contribuciones de Hernan Harco" 
+         width="48%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=gotham&hide_border=true&title_color=3670F7&icon_color=3670F7" alt="Top Lenguajes de Hernan Harco" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanharco&layout=compact&langs_count=6&theme=gotham&hide_border=true&title_color=3670F7&icon_color=3670F7" 
+         alt="Top Lenguajes de Hernan Harco" 
+         width="48%" />
 </p>
 
 ---
