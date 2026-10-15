@@ -65,8 +65,14 @@ DEVOPS       [██████████████░░░░░░]  70
 
 ## ⚔️ Arsenal Tecnológico
 
+<p align="center"><sub>🎯 Lo que estoy usando hoy en mis proyectos activos</sub></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,docker,aws" alt="Stack tecnológico de Hernan Harco" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,svelte,astro,tailwind" alt="Lenguajes y frameworks front: TypeScript, JavaScript, React, Next.js, Vite, Svelte, Astro, Tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,go,supabase,postgres,docker,git,sentry,playwright" alt="Backend y herramientas: Node.js, Python, FastAPI, Django, Go, Supabase, PostgreSQL, Docker, Git, Sentry, Playwright" />
 </p>
 
 ---
