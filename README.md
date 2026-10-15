@@ -19,12 +19,14 @@
       <br/><br/>
     </td>
     <td align="left">
-      <h3>🆙 Nivel 27 — Guerrero del Código</h3>
+      <!-- ficha:level:ini -->
+      <h3>🆙 Nivel 24 — Guerrero del Código</h3>
       <pre>
-NIVEL 27  [███████████████░░░░░]  66%  ·  2.766 XP
-          +34 contribuciones → Nivel 28
+NIVEL 24  [███████████████░░░░░]  73%  ·  2.473 XP
+          +27 contribuciones → Nivel 25
       </pre>
       <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado oct 2026</sub>
+      <!-- ficha:level:fin -->
       <br/><br/>
       ❤️ <b>Objetivo de la misión:</b> transformar ideas locas en código limpio y funcional.<br/>
       ☕ <b>Poción favorita:</b> café (nivel: ilimitado).<br/>
@@ -51,15 +53,20 @@ DEVOPS       [██████████████░░░░░░]  70
 
 ## 📜 Quests
 
+<!-- ficha:quests:ini -->
+
 | Quest | Lenguaje | Última actividad | Estado |
 |:------|:--------:|:-----------------:|:------:|
+| 🔒 riderDefensa | TypeScript | 15 oct 2026 | 🟢 En desarrollo |
+| [prototipo_prixline](https://github.com/hernanharco/prototipo_prixline) — prototipo de interfaz desde Figma | TypeScript | 14 oct 2026 | 🟢 En desarrollo |
+| [vidasaludable](https://github.com/hernanharco/vidasaludable) — recomendador de vitaminas Nutrilite | TypeScript | 14 oct 2026 | 🟢 En desarrollo |
+| [authelrincondeharco](https://github.com/hernanharco/authelrincondeharco) — AuthCore, auth multi-tenant con OAuth | Python | 12 oct 2026 | 🟢 En desarrollo |
+| [elrincondeharco.com](https://github.com/hernanharco/elrincondeharco.com) — portfolio personal | Python | 12 oct 2026 | 🟢 En desarrollo |
 | [tapiceria_rincon_es](https://github.com/hernanharco/tapiceria_rincon_es) — sistema de facturas | JavaScript | 6 oct 2026 | 🟢 En desarrollo |
-| [elrincondeharco.com](https://github.com/hernanharco/elrincondeharco.com) — portafolio | Python | 12 oct 2026 | 🟢 En desarrollo |
-| [backend-CoreAppointment](https://github.com/hernanharco/backend-CoreAppointment) | Python | 12 mar 2026 | 🟡 En pausa |
-| [CoreAppointmentHarco](https://github.com/hernanharco/CoreAppointmentHarco) | TypeScript | 2 feb 2026 | 🟡 En pausa |
-| [connectgoogle](https://github.com/hernanharco/connectgoogle) | Svelte | 28 mar 2026 | 🟡 En pausa |
 
-<p align="center"><sub>🟢 activa · 🟡 en pausa — estado según el último push de cada repo</sub></p>
+<!-- ficha:quests:fin -->
+
+<p align="center"><sub>🟢 activa · 🟡 en pausa · 🔒 repo privado (sin enlace) — estado según el último push</sub></p>
 
 ---
 
