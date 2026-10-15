@@ -1,28 +1,99 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3670F7&height=180&section=header&text=HERNAN%20HARCO&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Dev%20|%20Codificando%20Memes%20y%20Webs!&descAlign=60&descAlignY=60" alt="Banner de Bienvenida de Hernan Haro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3670F7&height=180&section=header&text=HERNAN%20HARCO&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Dev%20|%20Codificando%20Memes%20y%20Webs!&descAlign=60&descAlignY=60" alt="Banner de bienvenida de Hernan Harco" />
 </h1>
 
+---
+
+## 🎮 Ficha de Personaje
+
+<table align="center">
+  <tr>
+    <td align="center" width="240">
+      <br/>
+      <img src="https://github.com/hernanharco.png?size=180" width="170" alt="Avatar de Hernan Harco" />
+      <br/><br/>
+      <b>Hernán "Harco" Arango</b><br/>
+      ⚔️ Full-Stack Developer<br/>
+      📍 España<br/>
+      <sub>Clase: Híbrido Front / Back</sub>
+      <br/><br/>
+    </td>
+    <td align="left">
+      <h3>🆙 Nivel 27 — Guerrero del Código</h3>
+      <pre>
+NIVEL 27  [███████████████░░░░░]  66%  ·  2.766 XP
+          +34 contribuciones → Nivel 28
+      </pre>
+      <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado oct 2026</sub>
+      <br/><br/>
+      ❤️ <b>Objetivo de la misión:</b> transformar ideas locas en código limpio y funcional.<br/>
+      ☕ <b>Poción favorita:</b> café (nivel: ilimitado).<br/>
+      💥 <b>Bug clásico:</b> olvidar un punto y coma y perder 3 horas de vida.
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚔️ Atributos
+
+<pre align="center">
+FRONTEND     [██████████████████░░]  90
+BACKEND      [████████████████░░░░]  80
+BASE DATOS   [███████████████░░░░░]  75
+GIT          [█████████████████░░░]  85
+DEVOPS       [██████████████░░░░░░]  70
+</pre>
+
+<p align="center"><sub>📊 Auto-evaluación · +XP con cada proyecto completado</sub></p>
+
+---
+
+## 📜 Quests
+
+| Quest | Lenguaje | Última actividad | Estado |
+|:------|:--------:|:-----------------:|:------:|
+| [tapiceria_rincon_es](https://github.com/hernanharco/tapiceria_rincon_es) — sistema de facturas | JavaScript | 6 oct 2026 | 🟢 En desarrollo |
+| [elrincondeharco.com](https://github.com/hernanharco/elrincondeharco.com) — portafolio | Python | 12 oct 2026 | 🟢 En desarrollo |
+| [backend-CoreAppointment](https://github.com/hernanharco/backend-CoreAppointment) | Python | 12 mar 2026 | 🟡 En pausa |
+| [CoreAppointmentHarco](https://github.com/hernanharco/CoreAppointmentHarco) | TypeScript | 2 feb 2026 | 🟡 En pausa |
+| [connectgoogle](https://github.com/hernanharco/connectgoogle) | Svelte | 28 mar 2026 | 🟡 En pausa |
+
+<p align="center"><sub>🟢 activa · 🟡 en pausa — estado según el último push de cada repo</sub></p>
+
+---
+
+## ⚔️ Arsenal Tecnológico
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animación de desarrollador codificando" width="50%">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,docker,aws" alt="Stack tecnológico de Hernan Harco" />
 </p>
 
 ---
 
-### 💻 ¡Modo Hardcore Activado! 💥
+## 📊 Progreso
 
-<p align="left">
-  👾 **Clase de Personaje:** Developer Web (Full-Stack).
-  <br>
-  🥇 **Objetivo de la Misión:** Transformar ideas locas en código limpio y funcional.
-  <br>
-  ☕ **Poción Favorita:** Café (Nivel: Ilimitado).
-  <br>
-  🔥 **Error Común:** Olvidar un punto y coma y perder 3 horas de vida.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hernanharco&show_icons=true&include_all_commits=true&title_color=3670F7&icon_color=3670F7&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10&rank_icon=github" alt="Estadísticas de GitHub de Hernan Harco" width="52%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/3670F7/hernanharco" alt="Gráfico de contribuciones de Hernan Harco (último año)" />
 </p>
 
 ---
 
-### 🌐 ¡Conectemos en la Red! 🤝
+## 🏆 Logros Desbloqueados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quickdraw-Desbloqueado-3670F7?style=for-the-badge" alt="Logro Quickdraw" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull_Shark_x2-Desbloqueado-3670F7?style=for-the-badge" alt="Logro Pull Shark x2" />
+</p>
+
+---
+
+## 🌐 ¡Conectemos en la Red!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hernan-harco/" target="_blank">
@@ -34,38 +105,6 @@
   </a>
 </p>
 
----
-
-### 🕹️ Nivel de Habilidad (XP Bar) 📊
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernanharco&theme=gotham&hide_border=true&card_width=400" 
-         alt="Racha de Contribuciones de Hernan Harco" 
-         width="48%"/>  
-  
-</p>
-
----
-
-### ⚔️ Arsenal Tecnológico (Tech Stack) 🛠️
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,docker,aws" 
-         alt="Lista de Habilidades" />
-</p>
-
----
-
-### 🚀 Mis Proyectos Destacados (¡La Magia Sucede Aquí!) ✨
-
-<p align="center">
-  <a href="https://github.com/hernanharco?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_TODOS_los_Proyectos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Botón de Portafolio Final"/>
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hernanharco&style=for-the-badge&color=3670F7" alt="Vistas al Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=hernanharco&style=for-the-badge&color=3670F7" alt="Vistas al perfil" />
 </div>
-
----
