@@ -20,12 +20,12 @@
     </td>
     <td align="left">
       <!-- ficha:level:ini -->
-      <h3>🆙 Nivel 30 — Guerrero del Código</h3>
+      <h3>🆙 Nivel 33 — Guerrero del Código</h3>
       <pre>
-NIVEL 30  [██████░░░░░░░░░░░░░░]  30%  ·  3.030 XP
-          +70 contribuciones → Nivel 31
+NIVEL 33  [███░░░░░░░░░░░░░░░░░]  13%  ·  3.313 XP
+          +87 contribuciones → Nivel 34
       </pre>
-      <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado oct 2026</sub>
+      <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado nov 2026</sub>
       <!-- ficha:level:fin -->
       <br/><br/>
       ❤️ <b>Objetivo de la misión:</b> transformar ideas locas en código limpio y funcional.<br/>
