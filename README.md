@@ -20,10 +20,10 @@
     </td>
     <td align="left">
       <!-- ficha:level:ini -->
-      <h3>🆙 Nivel 33 — Guerrero del Código</h3>
+      <h3>🆙 Nivel 34 — Guerrero del Código</h3>
       <pre>
-NIVEL 33  [███░░░░░░░░░░░░░░░░░]  13%  ·  3.313 XP
-          +87 contribuciones → Nivel 34
+NIVEL 34  [███████████████████░]  96%  ·  3.496 XP
+          +4 contribuciones → Nivel 35
       </pre>
       <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado nov 2026</sub>
       <!-- ficha:level:fin -->
