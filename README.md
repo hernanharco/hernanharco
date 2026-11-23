@@ -20,10 +20,10 @@
     </td>
     <td align="left">
       <!-- ficha:level:ini -->
-      <h3>🆙 Nivel 36 — Guerrero del Código</h3>
+      <h3>🆙 Nivel 38 — Guerrero del Código</h3>
       <pre>
-NIVEL 36  [█████████████████░░░]  84%  ·  3.684 XP
-          +16 contribuciones → Nivel 37
+NIVEL 38  [██████░░░░░░░░░░░░░░]  30%  ·  3.830 XP
+          +70 contribuciones → Nivel 39
       </pre>
       <sub>📐 Nivel = contribuciones de los últimos 12 meses ÷ 100 · actualizado nov 2026</sub>
       <!-- ficha:level:fin -->
@@ -59,10 +59,10 @@ DEVOPS       [██████████████░░░░░░]  70
 |:------|:--------:|:-----------------:|:------:|
 | 🔒 riderDefensa | TypeScript | 15 oct 2026 | 🟢 En desarrollo |
 | [prototipo_prixline](https://github.com/hernanharco/prototipo_prixline) — prototipo de interfaz desde Figma | TypeScript | 14 oct 2026 | 🟢 En desarrollo |
-| [vidasaludable](https://github.com/hernanharco/vidasaludable) — recomendador de vitaminas Nutrilite | TypeScript | 12 nov 2026 | 🟢 En desarrollo |
-| [authelrincondeharco](https://github.com/hernanharco/authelrincondeharco) — AuthCore, auth multi-tenant con OAuth | Python | 13 nov 2026 | 🟢 En desarrollo |
+| [vidasaludable](https://github.com/hernanharco/vidasaludable) — recomendador de vitaminas Nutrilite | TypeScript | 23 nov 2026 | 🟢 En desarrollo |
+| [authelrincondeharco](https://github.com/hernanharco/authelrincondeharco) — AuthCore, auth multi-tenant con OAuth | Python | 21 nov 2026 | 🟢 En desarrollo |
 | [elrincondeharco.com](https://github.com/hernanharco/elrincondeharco.com) — portfolio personal | Python | 12 oct 2026 | 🟢 En desarrollo |
-| [tapiceria_rincon_es](https://github.com/hernanharco/tapiceria_rincon_es) — sistema de facturas | JavaScript | 6 oct 2026 | 🟢 En desarrollo |
+| [tapiceria_rincon_es](https://github.com/hernanharco/tapiceria_rincon_es) — sistema de facturas | JavaScript | 6 oct 2026 | 🟡 En pausa |
 
 <!-- ficha:quests:fin -->
 
